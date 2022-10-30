@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrRGD07
+- 👀 I’m interested in video games and game development
+- 🌱 I’m currently learning C# and unity
